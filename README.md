@@ -1,6 +1,6 @@
 # Node.js CI Matrix Project
 
-This project is part of **Module 3: Implementing Continuous Integration with GitHub Actions**, focusing on automating a Node.js application’s build, test, and linting processes using a build matrix and code quality checks. The project follows **Lesson 2: Configuring Build Matrices** and **Lesson 3: Integrating Code Quality Checks** from the course guide.
+This project is part of **continuing from  Implementing Continuous Integration with GitHub Actions course**, focusing on automating a Node.js application’s build, test, and linting processes using a build matrix and code quality checks. 
 
 ## Project Overview
 
