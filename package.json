@@ -1,0 +1,28 @@
+{
+  "name": "node-ci-matrix-project",
+  "version": "1.0.0",
+  "description": "A Node.js application with CI using GitHub Actions build matrix and code quality checks",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha",
+    "lint": "eslint .",
+    "build": "echo 'No build step required for this project'"
+  },
+  "author": "Endris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-chai-expect": "^3.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-mocha": "^10.5.0",
+    "mocha": "^10.7.2",
+    "supertest": "^6.3.3"
+  }
+}
